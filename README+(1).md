@@ -1,5 +1,5 @@
 # Predicting Bike Share Demand
-> This repository contains the code and analysis for predicting bike rental demand using a dataset of bike-sharing data. The project involves data loading, exploratory data analysis (EDA), feature selection, model building, and evaluation.
+> This repository contains the code and analysis for predicting bike rental demand using a dataset of bike-sharing data. The project involves data loading, exploratory data analysis (EDA), feature selection, model building, and evaluation. 
 
 
 ## Table of Contents
